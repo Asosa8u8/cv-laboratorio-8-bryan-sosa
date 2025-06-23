@@ -1,6 +1,6 @@
 # CV - Bryan Andrés  Sánchez
 
-Este repositorio contiene mi Currículum Vitae (CV) digital desarrollado como parte del Laboratorio 8 de la materia Interacción Persona Computador.
+Este repositorio contiene mi Currículum Vitae (CV) digital desarrollado como parte del Laboratorio 8.
 
 ---
 
@@ -14,7 +14,7 @@ El diseño original fue creado en Figma para tres vistas: desktop, tablet y mobi
 
 ## Vista previa del sitio
 
-- Ver el sitio en GitHub Pages = 
+- Ver el sitio en GitHub Pages = https://asosa8u8.github.io/cv-laboratorio-8-bryan-sosa/
 - Repositorio original en GitHub = https://github.com/Asosa8u8/cv-laboratorio-8-bryan-sosa.git
 - Prototipo en Figma = https://www.figma.com/design/td4PfNmPFPZz3nyj5CCRuz/Laboratorio-8---Bryan-Sosa?m=auto&t=Rs0nm4mUJv0kpcQm-1
 
