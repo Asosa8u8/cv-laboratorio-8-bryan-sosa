@@ -15,7 +15,7 @@ El diseño original fue creado en Figma para tres vistas: desktop, tablet y mobi
 ## Vista previa del sitio
 
 - Ver el sitio en GitHub Pages = 
-- Repositorio original en GitHub = 
+- Repositorio original en GitHub = https://github.com/Asosa8u8/cv-laboratorio-8-bryan-sosa.git
 - Prototipo en Figma = https://www.figma.com/design/td4PfNmPFPZz3nyj5CCRuz/Laboratorio-8---Bryan-Sosa?m=auto&t=Rs0nm4mUJv0kpcQm-1
 
 ---
